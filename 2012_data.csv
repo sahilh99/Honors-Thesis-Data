@@ -1,0 +1,102 @@
+rank by tickets sold, tickets sold, amphitheater name, city, state, total gross
+
+5, 321165, Hollywood Bowl, Los Angeles, CA, $27534812.50
+1, 503876, Red Rocks Amphitheatre ,Morrison, CO, $24547850.80
+2, 390808, Cynthia Woods Mitchell Pavilion, The Woodlands, TX, $16201199.60
+10, 254336, Shoreline Amphitheatre, Mountain View, CA, $16075055.60
+4, 326204, Molson Canadian Amphitheatre, Toronto, CANADA, $15983662.40
+3, 367005, Filene Center At Wolf Trap, Vienna, VA, $14147166.20
+12, 234868, Greek Theatre, Los Angeles, CA ,$13026877.50
+6, 312274 ,Susquehanna Bank Center ,Camden, NJ, $12652625.40
+23, 183962, Nikon At Jones Beach Theater, Wantagh, NY, $12073778.00
+38, 101257, Sidney Myer Music Bowl, Melbourne, AUSTRALIA, $11443602.00
+7, 308317, Riverbend Music Center, Cincinnati, OH, $11193517.50
+8, 308223, Klipsch Music Center, Noblesville, IN, $10435673.50
+11, 236635, Comcast Center, Mansfield, MA, $10075965.80
+13, 224914, Saratoga Performing Arts Center, Saratoga Springs, NY, $9669613.50
+9, 258966, First Midwest Bank Amphitheatre, Tinley Park, IL, $8592283.30
+15, 214359, Jiffy Lube Live, Bristow, VA, $8089708.80
+14, 221416, Blossom Music Center, Cuyahoga Falls, OH, $8074270.00
+28, 157743, Verizon Wireless Amph. At Encore Park, Alpharetta, GA, $7968033.50
+18, 195481, Aaron's Amphitheatre At Lakewood, Atlanta, GA, $7761248.50
+16, 206935, First Niagara Pavilion, Burgettstown, PA, $7535178.00
+19, 192275, Gexa Energy Pavilion ,Dallas, TX, $7491539.20
+24, 179287, DTE Energy Music Theatre, Clarkston, MI, $7211726.30
+22, 186388, Cricket Wireless Amphitheatre, Chula Vista, CA, $7178525.50
+25, 176170, Darien Lake Performing Arts Center, Darien Center, NY, $6979149.00
+21, 186699, Verizon Wireless Amphitheatre, Charlotte, NC, $6941645.50
+36, 117760, Santa Barbara Bowl, Santa Barbara, CA, $6920327.00
+20, 192217, Comcast Theatre, Hartford, CT, $6820173.00
+26, 168717, 1-800 Ask-Gary Amphitheatre, Tampa, FL, $6508600.30
+31, 140584, Verizon Wireless Amphitheater, Irvine, CA, $6375395.30
+30, 143219, Merriweather Post Pavilion, Columbia, MD, $6374439.50
+17, 199773, Verizon Wireless Amph. St. Louis, Maryland Heights, MO, $5977335.20
+29, 146349, Cruzan Amphitheatre, West Palm Beach, FL, $5487332.60
+27, 159207, Time Warner Cable Music Pavilion, Raleigh, NC, $5479069.00
+54, 65734, Lake Tahoe Outdoor Arena At Harveys, Stateline, NV, $5244997.50
+34, 124493, Constellation - Marvin Sands PAC, Canandaigua, NY, $5100303.50
+32, 133186, Bethel Woods Center For The Arts, Bethel, NY, $4995705.00
+42, 92156, Greek Theatre, Berkeley, CA, $4957979.80
+35, 123442, PNC Bank Arts Center, Holmdel, NJ, $4809237.50
+41, 93368, Alpine Valley Music Theatre, East Troy, WI, $4678882.50
+33, 131357, Farm Bureau Live At Virginia Beach, Virginia Beach, VA, $4506624.00
+39, 94366, Mann Center For Performing Arts, Philadelphia, PA, $4320092.00 
+61, 57262, Humphrey's Concerts By The Bay, San Diego, CA, $4220834.00 
+49, 72466, Chastain Park Amphitheatre, Atlanta, GA, $4084159.10
+43, 83485, St. Augustine Amphitheatre, Saint Augustine, FL ,$4083702.30
+46, 80023, Kindl-Buehne Wuhlheide, Berlin, GERMANY, $3907131.30
+37, 106758, Ravinia Festival At Ravinia Park, Highland Park, IL, $3872468.00
+47, 76601, McMenamins Edgefield Amphitheater, Troutdale, OR, $3787505.00
+57, 63070, Gorge Amphitheatre, Quincy, WA, $3645090.60
+51, 70898, Meadowbrook U.S. Cellular Pavilion, Gilford, NH, $3421829.50
+44, 81663, Fraze Pavilion For The Perf. Arts, Kettering, OH, $3036271.00
+63, 52876, Bangor Waterfront Pavilion, Bangor, ME, $3020992.00
+45, 81271, Ashley Furniture HomeStore Pavilion, Phoenix, AZ, $2983541.00
+53, 66017, Waldbühne Berlin, Berlin, GERMANY, $2866449.90
+62, 55513, Starlight Theatre, Kansas City, MO, $2780302.00
+55, 65255, Comfort Dental Amphitheatre, Englewood, CO, $2685850.00
+50, 71055, Rumsey Playfield / Central Park, New York, NY, $2668143.30
+58, 63045, Usana Amphitheatre, Salt Lake City, UT, $2655457.10
+74, 38320, Open Sky Theater @ Harrah's Rincon Casino, Valley Center, CA, $2526264.00
+56, 64724, Tanglewood, Lenox, MA, $2522944.00 
+60, 58067, Tuscaloosa Amphitheater, Tuscaloosa, AL, $2467049.90
+48, 75827, Whitewater Amphitheatre, New Braunfels, TX, $2303355.00
+73, 39127, Toyota Pavilion At Montage Mountain, Scranton, PA, $2287881.00
+64, 52778, Harrah's Casino - Stir Concert Cove, Council Bluffs, IA, $1997922.00
+75, 37458, Oak Mountain Amphitheatre, Pelham, AL, $1912416.30
+79, 33479, Charter One Pavilion @ Northerly Island, Chicago, IL, $1908982.00
+52, 66130, Hard Rock Casino Albuquerque Presents The Pavilion, Albuquerque, NM, $1905021.50
+59, 62380, Pacific Amphitheatre, Costa Mesa, CA, $1827941.90
+65, 47736, PNC Plaza At Steelstacks, Bethlehem, PA, $1809838.80
+70, 40227, Minnesota Zoo Amphitheater, Apple Valley, MN, $1796797.50
+93, 22559, Brisbane Riverstage, Brisbane, AUSTRALIA, $1794409.30
+68, 41666, Cuthbert Amphitheater, Eugene, OR, $1789838.20
+77, 36903, Oklahoma City Zoo Amphitheatre, Oklahoma City, OK, $1780871.50
+97, 20792, The Mountain Winery, Saratoga, CA, $1691065.00
+76, 37253, Prospect Park Bandshell, Brooklyn, NY, $1448641.00
+66, 43746, Amphitheater At The Wharf, Orange Beach, AL, $1443532.10
+78, 34225, Anselmo Valencia Tori Amphitheatre, Tucson, AZ, $1428385.20
+87, 27646, Ntelos Wireless Pavilion, Portsmouth, VA, $1425610.00
+86, 29164, Bank Of America Pavilion, Boston, MA, $1375586.30
+88, 25288, Mystic Amphitheater, Prior Lake, MN, $1353784.00
+82, 32117, San Manuel Amphitheater, Devore, CA, $1353078.50
+84, 31554, Tanzbrunnen Koeln, Cologne, GERMANY, $1327909.20
+67, 42965, Oregon Zoo Amphitheatre, Portland, OR, $1327178.10
+90, 24604, Jacobs Pavilion At Nautica, Cleveland, OH, $1266214.50
+80, 33239, White River Amphitheatre, Auburn, WA, $1218317.00
+71, 39526, Woodland Park Zoo, Seattle, WA, $1166992.00
+85, 30713, The Backyard, Austin, TX, $1157982.50
+81, 33237, Marcus Amphitheater, Milwaukee, WI, $1150084.00
+83, 31905, Sleep Train Amphitheatre, Wheatland, CA, $1119951.50
+69, 40286, Ford Park, Beaumont, TX, $1061497.60
+100, 20170, Pier Six Pavilion, Baltimore, MD, $1028056.00
+89, 25216, Arkansas Music Pavilion, Fayetteville, AR, $1021602.50
+96, 20857, Red Butte Garden, Salt Lake City, UT, $1009748.00
+91, 23925, Les Schwab Amphitheater, Bend, OR, $958011.00
+94, 21998, Star Pavilion At Hersheypark Stadium , Hershey, PA, $932923.50
+95, 21967, PNC Pavilion At Riverbend, Cincinnati, OH, $917055.00
+99, 20438, Williamsburg Park, Brooklyn, NY, $864412.00
+72, 39160, Floores Country Store Outdoor Stage, Helotes, TX, $855855.00
+98, 20729, Ntelos Wireless Pavilion, Charlottesville, VA, $836494.00
+40, 93893, Artpark Amphitheater, Lewiston, NY, $803590.00
+92, 23272, Snowden Grove Amphitheater, Southaven, MS, $763984.50

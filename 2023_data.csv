@@ -1,0 +1,102 @@
+rank by tickets sold, total tickets sold, amphitheater name, city, state, total gross
+
+1, 403544, Merriweather Post Pavilion, Columbia, MD, $34079816.00
+2, 291981, Hollywood Bowl, Los Angeles, CA, $32384533.80
+3, 618457, Ruoff Music Center, Noblesville, IN, $31763042.00
+4, 457324, The Cynthia Woods Mitchell Pavilion ,The Woodlands, TX, $30560530.60
+5, 549308, Pine Knob Music Theatre, Clarkston, MI, $30361607.10
+6, 390974, Budweiser Stage, Toronto, ON, $27804081.50
+7, 353017, Waldbühne Berlin, Berlin, Germany, $25527931.40
+8, 339350, Red Rocks Amphitheatre, Morrison, CO, $24643591.00
+9, 360420, PNC Music Pavilion, Charlotte, NC, $23396681.00
+10, 296232, MidFlorida Credit Union Amphitheatre ,Tampa, FL, $20148793.70
+11, 342681, The Pavilion at Star Lake ,Burgettstown, PA ,$18850162.20
+12, 290368, Dos Equis Pavilion, Dallas, TX ,$18296292.00
+13, 268510, The St. Augustine Amphitheatre, Saint Augustine, FL ,$17985808.70
+14, 280621, Xfinity Center ,Mansfield, MA ,$17583442.20
+15 ,302620 , Credit Union 1 Amphitheatre ,Tinley Park, IL ,$16713404.90
+16 ,246191 , Jiffy Lube Live ,Bristow, VA ,$16576200.70
+17, 236777 , Talking Stick Resort Amphitheatre ,Phoenix, AZ ,$16224717.90
+18, 224005 , Greek Theatre ,Los Angeles, CA ,$16171003.70
+19, 206336 , Greek Theatre At UC Berkeley ,Berkeley, CA ,$16166109.30
+20, 232427 , iTHINK Financial Amphitheatre ,West Palm Beach, FL ,$16020937.50
+21, 280055 , Hollywood Casino Amphitheatre ,Maryland Heights, MO ,$15994207.80
+22, 227016 , Saratoga Performing Arts Center , Saratoga Springs, NY ,$15676347.30
+23, 208424, Ameris Bank Amphitheatre ,Alpharetta, GA ,$14840126.40
+24, 227276 , Freedom Mortgage Pavilion ,Camden, NJ ,$14010029.20
+25, 281698 , USANA Amphitheatre ,West Valley City, UT ,$13157240.10
+26, 202714 , Riverbend Music Center ,Cincinnati, OH ,$13025363.10
+27, 173109 , Sidney Myer Music Bowl ,Melbourne, Australia ,$12034950.40
+28, 175025 , Bethel Woods Center For The Arts ,Bethel, NY ,$11965638.30
+29, 151792 , Gorge Amphitheatre ,George, WA ,$11960303.00
+30, 238238 , Blossom Music Center ,Cuyahoga Falls, OH ,$11916808.70
+31, 195505 , Walmart AMP ,Rogers, AR ,$11844609.90
+32, 214337 , PNC Bank Arts Center ,Holmdel, NJ ,$11750243.70
+33, 170132 , Orion Amphitheater ,Huntsville, AL ,$11587646.80
+34, 157321 , FivePoint Amphitheatre ,Irvine, CA ,$11385018.40
+35, 162321 , Bank of NH Pavilion ,Gilford, NH ,$10645814.30
+36, 138843 , Cellairis Amphitheatre At Lakewood ,Atlanta, GA, $10380098.30
+37, 190123 , Pacific Amphitheatre ,Costa Mesa, CA ,$9777964.00
+38, 182743 , Michigan Lottery Amphitheater ,Sterling Heights, MI ,$9513921.00
+39, 134393 , Northwell Health At Jones Beach Theater ,Wantagh, NY ,$9459854.50
+40, 163199, Coastal Credit Union Music Park At Walnut Creek, Raleigh, NC ,$9446977.70
+41, 148615 ,Quinta Vergara Amphitheatre ,Vina Del Mar, Chile ,$9185215.00
+42, 86403 ,The Wharf Amphitheater ,Orange Beach, AL ,$9030031.50
+43, 186841 ,Shoreline Amphitheatre ,Mountain View, CA ,$8899206.30
+44, 115193 ,American Family Insurance Amphitheater ,Milwaukee, WI, $8750608.20 
+45, 84617 ,Al Dana Amphitheatre ,Hawart Ingah, Bahrain ,$8661909.20
+46, 84262, Lake Tahoe Outdoor Arena At Harveys, Stateline, NV, $8600308.40
+47, 115486, Germania Insurance Amphitheater ,Austin, TX ,$8382516.00
+48, 125944 ,Fiddler's Green Amphitheatre ,Englewood, CO ,$8150101.30
+49, 115464, RV Inn Style Resorts Amphitheater, Ridgefield, WA ,$7511530.00
+50, 122194, North Island Credit Union Amphitheatre ,Chula Vista, CA ,$7293847.30
+51, 140171 ,Isleta Amphitheater ,Albuquerque, NM ,$7240282.10
+52, 118926, FirstBank Amphitheater, Franklin, TN ,$7142643.00
+53 ,133055 ,Empower Federal Credit Union Amphitheater at Lakeview ,Syracuse, NY ,$6923547.90
+54, 119173, McMenamins Edgefield Amphitheater, Troutdale, OR, $6907117.00
+55, 114263 ,TD Pavilion at the Mann Center for Performing Arts ,Philadelphia, PA ,$6865139.50
+56 ,124955 ,Veterans United Home Loans Amphitheater At Virginia Beach ,Virginia Beach, VA ,$6715417.40
+57, 124879, Darien Lake Performing Arts Center ,Darien Center, NY ,$6685955.50 
+58, 122580, Toyota Pavilion at Concord ,Concord, CA ,$6652165.10 
+59, 117345, White River Amphitheatre ,Auburn, WA ,$6586688.70
+60, 193655, Parque Bicentenario, Mexico City, Mexico, $6382803.40
+61, 108772, KettleHouse Amphitheater, Bonner, MT, $5769258.50
+62, 90659, CMAC, Canandaigua, NY, $5552795.50
+63, 91907, Thompson's Point, Portland, ME, $5341435.80
+64, 71373, Maine Savings Amphitheater, Bangor, ME, $5156157.60
+65, 64232, Hartford Healthcare Amphitheater, Bridgeport, CT, $5077683.00
+66, 71797, Daily's Place Amphitheater, Jacksonville, FL, $5065393.50
+67, 73326, Vina Robles Amphitheatre ,Paso Robles, CA ,$4916333.00
+68, 80637, Ascend Amphitheater, Nashville, TN, $4877484.40
+69, 66790, Brisbane Riverstage, Brisbane, Australia, $4852119.60
+70, 78670, Xfinity Theatre, Hartford, CT, $4798746.00
+71, 94883, Toyota Amphitheatre, Wheatland, CA ,$4594954.10
+72, 50873, Jardines De México, Jojutla, Mexico, $4594405.60
+73, 98680, Hayden Homes Amphitheater, Bend, OR , $4573436.50
+74, 64058, Live Oak Bank Pavilion, Wilmington, NC, $4435954.30
+75, 41666, Santa Barbara Bowl, Santa Barbara, CA ,$3847927.90
+76, 80254, Everwise Amphitheater at White River State Park ,Indianapolis, IN ,$3794515.80
+77, 51979, The Sound Amphitheatre, Clearwater, FL, $3753179.00
+78, 53144, Glen Helen Amphitheater, San Bernardino, CA, $3639312.00
+79, 38061, Broadview Stage at SPAC, Saratoga Springs, NY, $3607181.00
+80, 53184, BankPlus Amphitheater At Snowden Grove, Southaven, MS, $3535155.70
+81, 52627, Red Hat Amphitheater, Raleigh, NC, $2823852.60
+82, 48483, Meadow Brook Amphitheatre, Rochester, MI, $2683278.00
+83, 45602, Harrah's Council Bluffs - Stir Concert Cove, Council Bluffs, IA, $2590338.00
+84, 38057, Mann Center for Performing Arts, Philadelphia, PA, $2494095.50
+85, 29346, Hope Estate Winery, Pokolbin, Australia, $2487770.50
+86, 31806, Cal Coast Credit Union Open Air Theatre, San Diego, CA, $2439801.80
+87, 34140, The Basi Nationwide Amphitheater at the Fruityard, Modesto, CA, $2348279.50
+88, 46331, Parque Viva, Guácima, Costa Rica, $2213141.90
+89, 30312, Oak Mountain Amphitheatre, Pelham, AL, $2188752.00
+90, 29369, Alpine Valley Music Theatre, East Troy, WI, $2143165.00
+91, 39958, Cadence Bank Amphitheatre At Chastain Park, Atlanta, GA, $2053997.50
+92, 40789, Marenostrum, Fuengirola, Spain, $2030855.00
+93, 16877, Oxbow Riverstage, Napa, CA, $1982456.50
+94, 37765, Skyla Credit Union Amphitheatre, Charlotte, NC, $1963481.00
+95, 27205, Gran Teatro Valle Dei Templi, Agrigento, Italy, $1894762.90
+96, 54992, Artpark Amphitheater, Lewiston, NY, $1883335.50
+97, 30762, McGrath Amphitheatre, Cedar Rapids, IA, $1866151.50
+98, 25266, Brandon Amphitheater, Brandon, MS, $1816797.00
+99, 31433, Saint Louis Music Park, Maryland Heights, MO, $1811863.00
+100, 23062, Ironstone Amphitheatre, Murphys, CA, $1807610.00
