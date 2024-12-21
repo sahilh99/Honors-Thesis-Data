@@ -1,0 +1,53 @@
+rank by tickets sold, total tickets sold, amphitheater name, city, state, total gross
+
+2, 490557, Comcast Center, Mansfield, MA, $24028647.20
+3, 477177, Susquehanna Bank Center, Camden, NJ ,$20167331.30
+28, 206248, Hollywood Bowl, Los Angeles, CA ,$18524779.80
+1, 688344, DTE Energy Music Theatre, Clarkston, MI, $18021021.60
+8, 334422, Red Rocks Amphitheatre, Morrison, CO, $17502040.60
+14, 273531, Nikon At Jones Beach Theater, Wantagh, NY, $16603466.20
+6, 357524, The Cynthia Woods Mitchell Pavilion, The Woodlands, TX, $15456954.10
+4, 380962, Filene Center At Wolf Trap, Vienna, VA ,$14411550.60
+18, 245325, The Molson Amphitheatre, Toronto, CANADA, $14284955.60
+7, 336107, Nissan Pavilion At Stone Ridge, Bristow, VA ,$14060161.10 
+29, 204780, Greek Theatre, Los Angeles, CA ,$13794249.20
+10, 305846, PNC Bank Arts Center, Holmdel, NJ ,$12989111.90
+26, 211386, Chastain Park Amphitheatre, Atlanta, GA, $12893797.80
+20, 240195, Gorge Amphitheatre, Quincy, WA, $12855885.30
+35, 155367, Verizon Wireless Amph. At Encore Park ,Alpharetta, GA ,$12518396.20
+5, 378141, Verizon Wireless Music Center, Noblesville, IN, $11995258.10
+11, 290559, Superpages.com Center, Dallas, TX, $11813382.80
+17, 251976, Verizon Wireless Amphitheater, Irvine, CA ,$11753975.70
+9, 310936, Verizon Wireless Amph. St. Louis, Maryland Heights, MO, $10524143.80
+13, 274815, New England Dodge Music Center, Hartford, CT ,$10451813.60
+12, 279850, Verizon Wireless Amphitheatre, Charlotte, NC, $10274018.80
+16, 257750, Shoreline Amphitheatre, Mountain View, CA ,$10030966.30
+15, 269619, Time Warner Cable Music Pavilion ,Raleigh, NC, $9767119.60
+21, 234884, Cruzan Amphitheatre, West Palm Beach, FL, $9627441.50
+27, 210289, Cricket Wireless Amphitheatre, Chula Vista, CA, $9566668.80
+30, 193022, Merriweather Post Pavilion, Columbia, MD, $9562896.00
+23, 225796, Ford Amphitheatre @ State Fairgrds. ,Tampa, FL, $9448190.50
+19, 240282, Riverbend Music Center, Cincinnati, OH, $9252878.40
+22, 230289, Verizon Wireless Virginia Beach Amphitheater, Virginia Beach, VA, $8932328.30
+25, 216215, Saratoga Performing Arts Center, Saratoga Springs, NY, $8856682.20
+24, 223413, Blossom Music Center, Cuyahoga Falls, OH, $8415248.00
+36, 140797, Greek Theatre, Berkeley, CA, $7761505.00
+31, 187584, Lakewood Amphitheatre, Atlanta, GA, $7318949.00
+33, 184854, Cricket Wireless Pavilion, Phoenix, AZ, $7221996.60
+32, 186349, First Midwest Bank Amphitheatre, Tinley Park, IL, $6913417.50
+48, 94959, The Mountain Winery, Saratoga, CA, $6619712.60
+47, 98492, Santa Barbara Bowl, Santa Barbara, CA, $6236848.30
+62, 65103, Waldbuhne, Berlin, GERMANY, $6074539.30
+41, 123692, Post-Gazette Pavilion, Burgettstown, PA, $6038128.10
+34, 160316, Verizon Wireless Amphitheater ,Selma, TX ,$5520657.30
+40, 123797, White River Amphitheatre, Auburn, WA ,$5388349.70
+42, 123658, Pavilion Stage At Bethel Woods Center For The Arts, Bethel, NY, $5241126.80
+39, 126945, Bank Of America Pavilion, Boston, MA, $4936576.00
+38, 129684, Journal Pavilion, Albuquerque, NM, $4926727.30
+37, 137054, Fiddler's Green Amphitheatre, Englewood, CO, $4833526.30
+43, 118266, Toyota Pavilion At Montage Mountain, Scranton, PA, $4707690.30
+49, 93791, Sleep Train Pavilion At Concord, Concord, CA, $4566904.10
+45, 106306, Darien Lake Performing Arts Center, Darien Center, NY, $4430152.30
+69, 56166, Harveys Lake Tahoe Outdoor Arena, Stateline, NV, $4299030.00
+64, 63134, Humphrey's Concerts By The Bay, San Diego, CA, $4295999.00
+59, 66966, The Amphitheater At Clark County, Ridgefield, WA, $4024573.50

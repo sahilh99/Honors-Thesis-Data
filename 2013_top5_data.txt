@@ -1,0 +1,52 @@
+rank by tickets sold,total tickets sold, amphitheater name, city, state, total gross
+
+1, 590700, Red Rocks Amphitheatre, Morrison, CO, $28848341.60
+10, 347326, Hollywood Bowl, Los Angeles, CA ,$23573609.20
+9, 360264, Molson Canadian Amphitheatre, Toronto, CANADA, $18804705.20
+4, 477244, The Cynthia Woods Mitchell Pavilion ,The Woodlands, TX, $18439307.80
+3, 498278, Klipsch Music Center, Noblesville, IN, $16190953.30
+28, 227206, Waldbühne Berlin, Berlin, GERMANY, $16023904.20
+2, 529964, DTE Energy Music Theatre, Clarkston, MI, $15897842.20
+23, 260633, Nikon At Jones Beach Theater, Wantagh, NY, $15665323.50
+15, 322661, Xfinity Center, Mansfield, MA, $15554726.00
+5, 388437, First Midwest Bank Amphitheatre, Tinley Park, IL, $14845306.00
+6, 384476, Susquehanna Bank Center, Camden, NJ ,$14176928.50
+8, 363558, Filene Center At Wolf Trap ,Vienna, VA ,$14019867.30
+7, 367760, Riverbend Music Center, Cincinnati, OH, $13410597.50
+11, 341370, PNC Bank Arts Center, Holmdel, NJ, $13305162.50
+42, 131582, Sidney Myer Music Bowl, Melbourne, AUSTRALIA, $12935774.50
+13, 332076, Jiffy Lube Live, Bristow, VA, $12826194.80
+24, 260467, Greek Theatre, Los Angeles, CA, $12696415.90
+36, 173883, King Countyâ€™s Marymoor Park ,Redmond, WA, $11954704.30
+17, 291610, Saratoga Performing Arts Center, Saratoga Springs, NY, $11552406.90
+18, 284980, MidFlorida Credit Union Amphitheatre, Tampa, FL, $11310312.50
+12, 339707, Verizon Wireless Amph. St. Louis ,Maryland Heights, MO, $10739192.80
+14, 327902, First Niagara Pavilion, Burgettstown, PA, $10538484.00 
+16, 294961, Blossom Music Center, Cuyahoga Falls, OH, $10382898.20
+19, 271854, Shoreline Amphitheatre, Mountain View, CA ,$10327728.30 
+20, 266764, Cruzan Amphitheatre, West Palm Beach, FL, $10217469.80
+26, 257268, Gexa Energy Pavilion, Dallas, TX, $9957348.50
+21, 263687, Comcast Theatre, Hartford, CT, $9705192.00
+27, 254570, Farm Bureau Live At Virginia Beach, Virginia Beach, VA, $9078038.10
+22, 261541, PNC Music Pavilion, Charlotte, NC ,$8784013.80
+29, 209335, Verizon Wireless Amphitheater ,Irvine, CA ,$8684622.60
+34, 184449, Austin360 Amphitheater, Austin, TX ,$8598677.50
+30, 206306, Sleep Train Amphitheatre, Chula Vista, CA, $8370118.00
+25, 257733, Walnut Creek Amphitheatre, Raleigh, NC ,$8247742.80
+32, 202503, Verizon Wireless Amph. At Encore Park, Alpharetta, GA, $7922083.80
+31, 203952, Darien Lake Performing Arts Center, Darien Center, NY, $7840139.80
+35, 180929, Ravinia Festival At Ravinia Park, Highland Park, IL, $7763023.00
+40, 148352, Greek Theatre, Berkeley, CA, $7375177.50
+37, 171931, Merriweather Post Pavilion, Columbia, MD, $7276606.60
+38, 169578, Pavilion Stage At Bethel Woods Center For The Arts, Bethel, NY, $7146279.50
+33, 193586, Aaron's Amphitheatre At Lakewood, Atlanta, GA, $6764584.50
+44, 126580, Gorge Amphitheatre, Quincy, WA, $6685706.00
+47, 117281, Meadowbrook, Gilford, NH, $6342100.40
+48, 107122, Santa Barbara Bowl, Santa Barbara, CA, $5793218.00
+39, 169444, Ak-Chin Pavilion, Phoenix, AZ, $5166859.30
+45, 119688, Usana Amphitheatre, Salt Lake City, UT, $4960173.20
+51, 97555, FirstMerit Bank Pavilion @ Northerly Island, Chicago, IL, $4725855.30
+41, 140922, Fiddlerâ€™s Green Amphitheatre,Englewood, CO, $4717083.50
+50, 103488, Marcus Amphitheater, Milwaukee, WI, $4549933.00
+65, 61492, Lake Tahoe Outdoor Arena At Harveys, Stateline, NV, $4461106.50
+46, 119338, Sleep Train Amphitheatre, Wheatland, CA, $4282753.00
